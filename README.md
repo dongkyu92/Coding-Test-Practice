@@ -18,21 +18,21 @@
 
   2. ###### [큰 수의 법칙](https://github.com/dongkyu92)
 
-  3. [숫자 카드 게임](https://github.com/dongkyu92)
+  3. ###### [숫자 카드 게임](https://github.com/dongkyu92)
 
-  4. [1이 될 때까지](https://github.com/dongkyu92)
+  4. ###### [1이 될 때까지](https://github.com/dongkyu92)
 
-  5. [모험가 길드](https://github.com/dongkyu92)
+  5. ###### [모험가 길드](https://github.com/dongkyu92)
 
-  6. [곱하기 혹은 더하기](https://github.com/dongkyu92)
+  6. ###### [곱하기 혹은 더하기](https://github.com/dongkyu92)
 
-  7. [문자열 뒤집기](https://github.com/dongkyu92)
+  7. ###### [문자열 뒤집기](https://github.com/dongkyu92)
 
-  8. [만들 수 없는 금액](https://github.com/dongkyu92)
+  8. ###### [만들 수 없는 금액](https://github.com/dongkyu92)
 
-  9. [볼링공 고르기](https://github.com/dongkyu92)
+  9. ###### [볼링공 고르기](https://github.com/dongkyu92)
 
-  10. [무지의 먹방 라이브](https://github.com/dongkyu92)
+  10. ###### [무지의 먹방 라이브](https://github.com/dongkyu92)
 
 - ##### Dynamic Programming
 
